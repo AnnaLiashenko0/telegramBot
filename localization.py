@@ -1,0 +1,55 @@
+#внглійська локалізація
+gb_localization = {
+    "Donate": "💳 Donate",
+    "Portfolio": "📁 Portfolio",
+    "Option": "⚙️ option 3",
+    "Reset": "🔄 Reset",
+    "BackToMenu": "🔙 Back to main menu",
+    "Info": "ℹ️ Info",
+    "Help": "❓ Help",
+    "LocalMes": "Language set to English 🇬🇧",
+    "DonateMes": (
+        "💳 *Support the project*\n"
+        "You can donate to the following card:\n\n"
+        "`1234 5678 9012 3456`\n\n"
+        "Thank you for your support! 🙏"
+    ),
+    "PortfolioMes": (
+        "📁 *My Portfolio*\n"
+        "Check out my work here:\n"
+        "https://your-portfolio-link.com"
+    ),
+    "OptionMes" : "You selected Option 3 ⚙️",
+    "InfoMes" : "ℹ️ This is some information.",
+    "HelpMes" : "❓ This is the help section.",
+    "Error" : "⚠️ Unknown command. Please choose from the menu.",
+    "ResetingMes": "🔄 Resetting Bot...\nPlease select your language again:"
+}
+
+#Українська локалізація 
+ua_localization = {
+    "Donate": "💳 Донат",
+    "Portfolio": "📁 Портфоліо",
+    "Option": "⚙️ Опція 3",
+    "Reset": "🔄 Скинути",
+    "BackToMenu": "🔙 Назад до головного меню",
+    "Info": "ℹ️ Інфо",
+    "Help": "❓ Допомога",
+    "LocalMes": "Мову змінено на українську 🇺🇦",
+    "DonateMes": (
+        "💳 *Підтримати проєкт*\n"
+        "Ви можете надіслати донат на наступну карту:\n\n"
+        "`1234 5678 9012 3456`\n\n"
+        "Дякуємо за вашу підтримку! 🙏"
+    ),
+    "PortfolioMes": (
+        "📁 *Моє портфоліо*\n"
+        "Ознайомтесь з моїми роботами тут:\n"
+        "https://your-portfolio-link.com"
+    ),
+    "OptionMes": "Ви обрали Опцію 3 ⚙️",
+    "InfoMes": "ℹ️ Це інформаційне повідомлення.",
+    "HelpMes": "❓ Це розділ допомоги.",
+    "Error": "⚠️ Невідома команда. Будь ласка, оберіть з меню.",
+    "ResetingMes": "🔄 Скидання бота...\nБудь ласка, оберіть мову ще раз:"
+}
