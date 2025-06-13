@@ -1,0 +1,13 @@
+{
+    "food": {
+        "title": {
+            "en": "🍖 Food for Rescued Animals",
+            "ua": "🍖 Їжа для урятованих тварин"
+        },
+        "description": {
+            "en": "We provide daily meals for over 80 animals. Join our monthly support program!",
+            "ua": "Щоденно годуємо понад 80 тварин. Долучайтесь до щомісячної підтримки!"
+        },
+        "requisites": "PayPal: food4animals@example.com\nCard: 4321 8765 2109 6543"
+    }
+}
