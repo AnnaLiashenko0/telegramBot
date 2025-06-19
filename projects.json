@@ -1,13 +1,222 @@
 {
-    "food": {
-        "title": {
-            "en": "🍖 Food for Rescued Animals",
-            "ua": "🍖 Їжа для урятованих тварин"
-        },
-        "description": {
-            "en": "We provide daily meals for over 80 animals. Join our monthly support program!",
-            "ua": "Щоденно годуємо понад 80 тварин. Долучайтесь до щомісячної підтримки!"
-        },
-        "requisites": "PayPal: food4animals@example.com\nCard: 4321 8765 2109 6543"
-    }
+  "food": {
+    "title": {
+      "en": "🍖 Food for Rescued Animals",
+      "ua": "🍖 Їжа для урятованих тварин"
+    },
+    "description": {
+      "en": "We provide daily meals for over 80 animals. Join our monthly support program!",
+      "ua": "Щоденно годуємо понад 80 тварин. Долучайтесь до щомісячної підтримки!"
+    },
+    "requisites": "PayPal: food4animals@example.com\nCard: 4321 8765 2109 6543"
+  },
+  "zsu_aid": {
+    "title": {
+      "en": "🪖 Support for Ukrainian Soldiers",
+      "ua": "🪖 Підтримка військових ЗСУ"
+    },
+    "description": {
+      "en": "Help us supply soldiers with essentials: uniforms, medicine, and food packages.",
+      "ua": "Допоможіть забезпечити військових формою, медикаментами та їжею."
+    },
+    "requisites": "Monobank: 5375 4141 1234 5678\nPayPal: zsu.support@example.com"
+  },
+  "med_children": {
+    "title": {
+      "en": "👶 Medical Help for Sick Children",
+      "ua": "👶 Медична допомога хворим дітям"
+    },
+    "description": {
+      "en": "We raise funds for surgeries and treatments for children with serious conditions.",
+      "ua": "Збираємо кошти на операції та лікування дітей з тяжкими захворюваннями."
+    },
+    "requisites": "Card: 4149 4991 2345 6789\nPayPal: kidshealing@example.com"
+  },
+  "elder_care": {
+    "title": {
+      "en": "👵 Care for the Elderly",
+      "ua": "👵 Опіка над літніми людьми"
+    },
+    "description": {
+      "en": "We deliver food, medicine, and companionship to lonely seniors.",
+      "ua": "Доставляємо їжу, ліки та підтримку самотнім літнім людям."
+    },
+    "requisites": "Card: 5168 7450 1234 5678\nPayPal: elderlycare@example.com"
+  },
+  "pets_treatment": {
+    "title": {
+      "en": "🐾 Emergency Pet Treatment",
+      "ua": "🐾 Невідкладне лікування тварин"
+    },
+    "description": {
+      "en": "Support emergency surgeries for injured street animals.",
+      "ua": "Допоможіть у фінансуванні термінових операцій для безпритульних тварин."
+    },
+    "requisites": "Card: 4242 4242 4242 4242\nPayPal: petrescue@example.com"
+  },
+  "evacuation": {
+    "title": {
+      "en": "🚐 Civilian Evacuation from Frontline",
+      "ua": "🚐 Евакуація цивільних з передової"
+    },
+    "description": {
+      "en": "Help relocate families from war zones to safer areas.",
+      "ua": "Допоможіть вивезти родини з зон бойових дій у безпечні місця."
+    },
+    "requisites": "Card: 5375 4111 1111 1111\nPayPal: evac.aid@example.com"
+  },
+  "school_supplies": {
+    "title": {
+      "en": "📚 School Supplies for Kids",
+      "ua": "📚 Шкільне приладдя для дітей"
+    },
+    "description": {
+      "en": "Help children from low-income families prepare for school.",
+      "ua": "Допоможіть дітям з малозабезпечених сімей зібратися до школи."
+    },
+    "requisites": "Card: 4111 1111 2222 3333\nPayPal: schoolkits@example.com"
+  },
+  "rebuild_home": {
+    "title": {
+      "en": "🏚️ Rebuild Destroyed Homes",
+      "ua": "🏚️ Відновлення зруйнованих осель"
+    },
+    "description": {
+      "en": "Support reconstruction efforts in war-affected regions.",
+      "ua": "Допоможіть у відновленні житла в постраждалих від війни районах."
+    },
+    "requisites": "Card: 5169 3305 1234 4321\nPayPal: rebuild.ua@example.com"
+  },
+  "prosthetics": {
+    "title": {
+      "en": "🦿 Prosthetics for War Veterans",
+      "ua": "🦿 Протези для ветеранів"
+    },
+    "description": {
+      "en": "We fund prosthetics for soldiers injured in the line of duty.",
+      "ua": "Забезпечуємо військових протезами після поранень."
+    },
+    "requisites": "Card: 4731 1856 1234 4321\nPayPal: veteranprosthetics@example.com"
+  },
+  "psych_support": {
+    "title": {
+      "en": "🧠 Mental Health Aid",
+      "ua": "🧠 Психологічна підтримка"
+    },
+    "description": {
+      "en": "Free therapy sessions for trauma survivors and veterans.",
+      "ua": "Безкоштовна терапія для постраждалих від війни та ветеранів."
+    },
+    "requisites": "PayPal: mentalcare@example.com\nCard: 4242 1111 2222 3333"
+  },
+  "warm_winter": {
+    "title": {
+      "en": "🧣 Warm Clothes for Winter",
+      "ua": "🧣 Теплий одяг на зиму"
+    },
+    "description": {
+      "en": "Donate warm clothes for displaced families and children.",
+      "ua": "Допоможіть одягти переселенців та дітей у холодну пору."
+    },
+    "requisites": "Card: 4149 0000 0000 1111\nPayPal: warmwinter@example.com"
+  },
+  "animal_shelter": {
+    "title": {
+      "en": "🐶 Shelter for Stray Animals",
+      "ua": "🐶 Притулок для бездомних тварин"
+    },
+    "description": {
+      "en": "Help build and maintain shelters for abandoned pets.",
+      "ua": "Допоможіть будувати та утримувати притулки для покинутих тварин."
+    },
+    "requisites": "Card: 5168 7654 3210 9876\nPayPal: strayshelter@example.com"
+  },
+  "water_access": {
+    "title": {
+      "en": "🚰 Access to Clean Water",
+      "ua": "🚰 Доступ до чистої води"
+    },
+    "description": {
+      "en": "Support water purification systems in remote villages.",
+      "ua": "Фінансуйте системи очищення води в селах без доступу до чистої води."
+    },
+    "requisites": "Card: 4242 5678 9876 1234\nPayPal: waterforlife@example.com"
+  },
+  "інвалідність": {
+    "title": {
+      "en": "♿️ Help for Disabled People",
+      "ua": "♿️ Допомога людям з інвалідністю"
+    },
+    "description": {
+      "en": "Provide wheelchairs and home equipment for people with disabilities.",
+      "ua": "Забезпечуємо інвалідними візками та побутовими засобами людей з інвалідністю."
+    },
+    "requisites": "Card: 4000 0000 1234 0000\nPayPal: supportdisabled@example.com"
+  },
+  "fire_recovery": {
+    "title": {
+      "en": "🔥 Help After House Fires",
+      "ua": "🔥 Допомога після пожеж"
+    },
+    "description": {
+      "en": "Support families who lost their homes in fires.",
+      "ua": "Підтримайте родини, що втратили житло через пожежі."
+    },
+    "requisites": "Card: 5375 1122 3344 5566\nPayPal: firerelief@example.com"
+  },
+  "eco_initiative": {
+    "title": {
+      "en": "🌱 Eco-Friendly Community Projects",
+      "ua": "🌱 Екологічні ініціативи"
+    },
+    "description": {
+      "en": "We plant trees and clean rivers to protect our environment.",
+      "ua": "Садимо дерева та очищаємо річки заради довкілля."
+    },
+    "requisites": "Card: 4111 5678 9876 5432\nPayPal: greenfuture@example.com"
+  },
+  "orphans_support": {
+    "title": {
+      "en": "🏠 Help Orphanages",
+      "ua": "🏠 Допомога дитячим будинкам"
+    },
+    "description": {
+      "en": "Provide toys, food, and clothes for orphaned children.",
+      "ua": "Даруйте іграшки, їжу та одяг дітям-сиротам."
+    },
+    "requisites": "Card: 4222 3344 5566 7788\nPayPal: orphanaid@example.com"
+  },
+  "internet_schools": {
+    "title": {
+      "en": "💻 Internet for Rural Schools",
+      "ua": "💻 Інтернет для сільських шкіл"
+    },
+    "description": {
+      "en": "Provide stable internet and equipment for schools in villages.",
+      "ua": "Забезпечуємо інтернетом та технікою школи у віддалених селах."
+    },
+    "requisites": "Card: 4000 4321 8765 2100\nPayPal: ruralnet@example.com"
+  },
+  "dental_aid": {
+    "title": {
+      "en": "🦷 Dental Help for Low-Income Families",
+      "ua": "🦷 Стоматологічна допомога для малозабезпечених"
+    },
+    "description": {
+      "en": "We offer free dental checkups and treatment for those in need.",
+      "ua": "Безкоштовні огляди та лікування для людей, які не можуть собі це дозволити."
+    },
+    "requisites": "Card: 4111 9999 8888 7777\nPayPal: smileproject@example.com"
+  },
+  "baby_needs": {
+    "title": {
+      "en": "🍼 Baby Essentials for Young Moms",
+      "ua": "🍼 Допомога молодим мамам"
+    },
+    "description": {
+      "en": "We deliver diapers, formula, and clothes to struggling families.",
+      "ua": "Допомагаємо з підгузками, сумішами та одягом для немовлят у скруті."
+    },
+    "requisites": "Card: 4149 9876 5432 1000\nPayPal: babycare@example.com"
+  }
 }
